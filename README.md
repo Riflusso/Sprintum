@@ -1,6 +1,6 @@
-<img align="right" height="256" width="256" src="common/src/main/resources/assets/sprintum/icon.png" />
-
 # Sprintum
+
+<img align="right" height="256" width="256" src="common/src/main/resources/assets/sprintum/icon.png" />
 
 <div>
   <a href="https://modrinth.com/mod/sprintum">
