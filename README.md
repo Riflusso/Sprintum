@@ -12,6 +12,9 @@
   <a href="https://fabricmc.net">
     <img alt="quilt" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg" />
   </a>
+  <a href="https://neoforged.net/">
+    <img alt="quilt" height="56" src="https://raw.githubusercontent.com/Hyperbole-Devs/vectors/8494ec1ac495cfb481dc7e458356325510933eb0/assets/cozy/supported/neoforge_vector.svg" />
+  </a>
 </div>
 
 <br />
