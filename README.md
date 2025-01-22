@@ -1,5 +1,8 @@
 # Sprintum
 
+### UPDATE 22.01.2025
+_Mojang has **OFFICIALLY** [reverted](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w04a) this bug, so this mod will make Minecraft 1.21.4 work as it intended._
+
 <img align="right" height="256" width="256" src="common/src/main/resources/assets/sprintum/icon.png" />
 
 <div>
